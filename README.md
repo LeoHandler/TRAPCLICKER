@@ -28,7 +28,7 @@ TrapClicker é uma simples aplicação desenvolvida pensada em facilitar sua vid
 5. Opção "Detonação" Irá apagar os rastros do clicker do seu computador (necessario apagar a .jar apos isso)
 
 
-# Dependencias
+# Dependências
 
 * [J.N.A](https://mvnrepository.com/artifact/com.sun.jna/jna/3.0.9)
 * [JNativeHook](https://jar-download.com/artifacts/com.1stleg/jnativehook/2.1.0/source-code)
